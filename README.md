@@ -2,7 +2,6 @@
 [![license agpl](https://img.shields.io/badge/licence-AGPL--3-blue.svg)](http://www.gnu.org/licenses/agpl-3.0.html)
 [![Coverage Status](https://coveralls.io/repos/github/Odoo-Italia-Associazione/user_contributes/badge.svg?branch=8.0)](https://coveralls.io/github/Odoo-Italia-Associazione/user_contributes?branch=8.0)
 [![codecov](https://codecov.io/gh/Odoo-Italia-Associazione/user_contributes/branch/8.0/graph/badge.svg)](https://codecov.io/gh/Odoo-Italia-Associazione/user_contributes/branch/8.0)
-[![OCA_project](http://www.zeroincombenze.it/wp-content/uploads/ci-ct/prd/button-oca-8.svg)](https://github.com/OCA/user_contributes/tree/8.0)
 [![Tech Doc](http://www.zeroincombenze.it/wp-content/uploads/ci-ct/prd/button-docs-8.svg)](http://wiki.zeroincombenze.org/en/Odoo/8.0/dev)
 [![Help](http://www.zeroincombenze.it/wp-content/uploads/ci-ct/prd/button-help-8.svg)](http://wiki.zeroincombenze.org/en/Odoo/8.0/man/)
 [![try it](http://www.zeroincombenze.it/wp-content/uploads/ci-ct/prd/button-try-it-8.svg)](http://erp8.zeroincombenze.it)
@@ -14,6 +13,18 @@ Odoo Italia Associazione contributes
 ====================================
 
 Contributes from users
+
+
+[![it](https://github.com/zeroincombenze/grymb/blob/master/flags/it_IT.png)](https://www.facebook.com/groups/openerp.italia/)
+
+Contributi utenti Odoo Italia Associazione
+==========================================
+
+Contributi degli utenti di Odoo Italia Associazione.
+
+I moduli sono forniti così come sono. Contattare l'autore del modulo per maggiori
+dettagli oppure scrivere nel forum https://www.odoo-italia.org/index.php/kunena/recente
+
 
 [//]: # (copyright)
 

@@ -15,9 +15,9 @@ Usage
 =====
 
 In una Tree views si può assegnare il widget in questo modo:
-
-`<field name="withholding_tax_exclude" widget="hide_column" check_field="test_withholding_tax"/>`
-
+```javascript
+<field name="withholding_tax_exclude" widget="hide_column" check_field="test_withholding_tax"/>
+```
 dove:
 
 - hide_column - è il nome di questo widget

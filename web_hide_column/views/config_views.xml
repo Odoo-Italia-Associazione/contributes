@@ -2,7 +2,7 @@
 <openerp>
     <data>
 
-        <!-- Definisce i nuovi script per molino_web_hide_column -->
+        <!-- Definisce i nuovi script per web_hide_column -->
         <template id="assets_backend" name="widget_one2many_clickable" inherit_id="web.assets_backend">
             <xpath expr="." position="inside">
                 <script type="text/javascript" src="/web_hide_column/static/src/js/hide_column.js"></script>

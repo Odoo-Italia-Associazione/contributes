@@ -16,7 +16,7 @@ Usage
 
 In una Tree views si può assegnare il widget in questo modo:
 
-<field name="withholding_tax_exclude" widget="hide_column" check_field="test_withholding_tax"/>
+`<field name="withholding_tax_exclude" widget="hide_column" check_field="test_withholding_tax"/>`
 
 dove:
 
@@ -42,10 +42,9 @@ Contributors
 Maintainer
 ----------
 
--  Giuseppe Stoduto <gstoduto@gmail.com>
+-  Giuseppe Stoduto `<gstoduto@gmail.com>`
 
-Questo modulo è mantenuto da Giuseppe Stoduto per eventuali bug e modifiche 
-contattare il Maiteiner.
+Per eventuali bug e modifiche contattare il Maiteiner.
 
 [//]: # (copyright)
 

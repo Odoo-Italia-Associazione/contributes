@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# © 2012-2014 Guewen Baconnier (Camptocamp SA)
+# © 2017 Giuseppe Stoduto
 # License AGPL-3.0 or later (http://www.gnu.org/licenses/agpl.html).
 
 {

@@ -4,8 +4,7 @@
 //   OpenERP, Open Source Management Solution
 //   This module copyright
 //     (C) 2013 Therp BV (<http://therp.nl>).
-//     (c) 2015 Serv. Tecnol. Avanzados (http://www.serviciosbaeza.com)
-//              Pedro M. Baeza <pedro.baeza@serviciosbaeza.com>
+//     (c) 2017 Giuseppe Stoduto <gstoduto@gmail.com>
 //
 //   This program is free software: you can redistribute it and/or modify
 //   it under the terms of the GNU Affero General Public License as

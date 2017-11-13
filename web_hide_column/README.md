@@ -42,7 +42,7 @@ Contributors
 Maintainer
 ----------
 
--  Giuseppe Stoduto `<gstoduto@gmail.com>`
+-  Giuseppe Stoduto `<`gstoduto@gmail.com`>`
 
 Per eventuali bug e modifiche contattare il Maiteiner.
 

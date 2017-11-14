@@ -9,7 +9,8 @@ Hide/Show Columns
 
 Shows or hides columns in a list_views
 
-![it](https://github.com/zeroincombenze/grymb/blob/master/flags/it_IT.png)
+[![it](https://github.com/zeroincombenze/grymb/blob/master/flags/it_IT.png)](https://www.facebook.com/groups/openerp.italia/)
+
 
 Usage
 =====

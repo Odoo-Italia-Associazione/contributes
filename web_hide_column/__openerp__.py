@@ -7,7 +7,7 @@
     'summary': 'Widget per nascondere/mostrare le colonne in tree_views',
     'version': '8.0.0.1.0',
     'license': 'AGPL-3',
-    'author': "Giuseppe Stoduto",
+    'author': "Giuseppe Stoduto, Odoo Italia Associazione",
     'category': 'Hidden',
     'depends': ['web'],
     'website': 'https://github.com/SGiuseppe',

@@ -1,19 +1,42 @@
+[![Build Status](https://travis-ci.org/Odoo-Italia-Associazione/user_contributes.svg?branch=8.0)](https://travis-ci.org/Odoo-Italia-Associazione/user_contributes)
 [![license agpl](https://img.shields.io/badge/licence-AGPL--3-blue.svg)](http://www.gnu.org/licenses/agpl-3.0.html)
-![Tech Doc](http://www.zeroincombenze.it/wp-content/uploads/ci-ct/prd/button-docs-8.svg)
-![Help](http://www.zeroincombenze.it/wp-content/uploads/ci-ct/prd/button-help-8.svg)
+[![Coverage Status](https://coveralls.io/repos/github/Odoo-Italia-Associazione/user_contributes/badge.svg?branch=8.0)](https://coveralls.io/github/Odoo-Italia-Associazione/user_contributes?branch=8.0)
+[![codecov](https://codecov.io/gh/Odoo-Italia-Associazione/user_contributes/branch/8.0/graph/badge.svg)](https://codecov.io/gh/Odoo-Italia-Associazione/user_contributes/branch/8.0)
+[![OCA_project](http://www.zeroincombenze.it/wp-content/uploads/ci-ct/prd/button-oca-8.svg)](https://github.com/OCA/user_contributes/tree/8.0)
+[![Tech Doc](http://www.zeroincombenze.it/wp-content/uploads/ci-ct/prd/button-docs-8.svg)](http://wiki.zeroincombenze.org/en/Odoo/8.0/dev)
+[![Help](http://www.zeroincombenze.it/wp-content/uploads/ci-ct/prd/button-help-8.svg)](http://wiki.zeroincombenze.org/en/Odoo/8.0/man/)
 
-![en](http://www.shs-av.com/wp-content/en_US.png)
+[![en](http://www.shs-av.com/wp-content/en_US.png)](http://wiki.zeroincombenze.org/it/Odoo/7.0/man)
 
 Hide/Show Columns
-==========================
+=================
 
 Shows or hides columns in a list_views
 
 [![it](https://github.com/zeroincombenze/grymb/blob/master/flags/it_IT.png)](https://www.facebook.com/groups/openerp.italia/)
 
+Installation
+------------
+
+These instruction are just an example to remember what you have to do:
+
+    git clone https://github.com/Odoo-Italia-Associazione/user_contributes.git
+    for module in web_hide_column; do
+        mv ODOO_DIR/user_contributes/$module BACKUP_DIR/
+        cp -R user_contributes/$module ODOO_DIR/user_contributes/
+    sudo service odoo-server restart -i user_contributes -d MYDB
+
+From UI: go to Setup > Module > Install
+
+Configuration
+-------------
+
+N/A
 
 Usage
 =====
+
+:it:
 
 In una Tree views si può assegnare il widget in questo modo:
 ```javascript
@@ -25,27 +48,38 @@ dove:
 - check_field - è il checkbox di controllo per mostrare(true) o nascondere(false) la colonna in oggetto. In questo caso withholding_tax_exclude
 
 
+Known issues / Roadmap
+----------------------
+
+N/A
+
 
 Bug Tracker
-===========
+-----------
 
-Eventuali Bug cominicarli ai Contributors
+Have a bug? Please visit https://odoo-italia.org/index.php/kunena/home
+
 
 Credits
-=======
+-------
 
-Contributors
-------------
+### Contributors
 
-* Giuseppe Stoduto
-* Odoo Italia Associazione
+* Giuseppe Stoduto <https://github.com/SGiuseppe>
 
-Maintainer
-----------
+### Funders
 
--  Giuseppe Stoduto `<`gstoduto@gmail.com`>`
+N/A
 
-Per eventuali bug e modifiche contattare il Maiteiner.
+### Maintainer
+
+[![Odoo Italia Associazione](https://www.odoo-italia.org/images/Immagini/Odoo%20Italia%20-%20126x56.png)](https://odoo-italia.org)
+
+Odoo Italia is a nonprofit organization whose develops Italian Localization for
+Odoo.
+
+To contribute to this module, please visit <https://odoo-italia.org/>.
+
 
 [//]: # (copyright)
 
@@ -70,3 +104,6 @@ con Odoo Proprietary License a pagamento.
 Odoo Italia Associazione distribuisce il codice esclusivamente con licenza [AGPL](http://www.gnu.org/licenses/agpl-3.0.html)
 
 [//]: # (end copyright)
+[//]: # (addons)
+
+[//]: # (end addons)
